@@ -1,0 +1,5 @@
+[controller] 
+192.168.65.18
+
+[compute]
+192.168.65.16 ansible_user=marichu
